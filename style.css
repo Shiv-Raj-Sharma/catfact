@@ -3,6 +3,12 @@
     background-color: aquamarine;
     display:block;
 
+
+}
+#btn{
+    border:3px solid red;
+    border-radius: 5px;
+
 }
 #h2{
     color:rgb(48, 71, 2);
