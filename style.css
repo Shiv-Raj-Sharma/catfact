@@ -1,6 +1,10 @@
-div{
+#cat{
     border: 10px solid greenyellow;
     background-color: aquamarine;
     display:block;
 
+}
+#h2{
+    color:rgb(48, 71, 2);
+    background-color: tomato;
 }
